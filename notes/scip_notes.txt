@@ -1,1 +1,0 @@
-lets writing some notes from SCIP - MIT Scheme
